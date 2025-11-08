@@ -52,7 +52,7 @@
 ## Пользовательский интерфейс
 
 - **Главная форма** с навигацией по функциям
-![Главная страница]("[https://github.com/Alexander1Voronin/-/blob/main/4.png](https://github.com/Alexander1Voronin/-/blob/main/4.png?raw=true)")
+![Главная страница]("https://github.com/Alexander1Voronin/-/blob/main/4.png?raw=true")
 
 - **Формы ввода** данных
 ![Форммы ввода]("./Read/Image/1.png")
